@@ -20,7 +20,7 @@
     "posttest": "npm run lint",
     "lint": "npm run lint:js",
     "lint:js": "node_modules/.bin/eslint .",
-    "start": "dash4"
+    "start": "node demo"
   },
   "main": "mock-server.js",
   "keywords": [
